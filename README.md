@@ -1,3 +1,4 @@
+[![Docker CI/CD](https://github.com/ayush-6338/docker_project/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/ayush-6338/docker_project/actions/workflows/docker.yml)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
